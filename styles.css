@@ -1,0 +1,148 @@
+/* TITLE */
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+
+}
+#title.container-fluid{
+    padding: 3% 15% 7%;
+}
+.heading{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family:"Montserrat-Black";
+    text-align: left;
+}
+.container-fluid{
+    padding: 3% 15%;
+
+}
+body{
+    font-family: "montserrat";
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+/* Navbar-settings */
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+}
+
+h2{
+    font-family: "montsterrat-bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Download-buttons */
+.download-button{
+    margin:5% 3% 5% 0%;
+    
+}
+
+
+ /* Title-image */
+ 
+ .title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    margin-top: 7%;
+    margin-left: 5%;
+    
+    
+    
+ }
+ /* feature */
+ #features{
+    padding: 10% 5%;
+    background-color: #fff;
+    
+    
+ }
+ .feature{
+    font-weight: bolder;
+    
+    
+ }
+p{
+    color: #8f8f8f;
+}
+.pic{
+    margin-left: 15%;
+    margin-bottom: 5%;
+    color: #ef8172;
+}
+.pic:hover{
+    color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding: 7% 15%;
+    
+}
+.dog-img{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+.press-img{
+    width: 15%;
+    margin:0px 20px;
+    margin-bottom: 20px;
+} 
+   /* PRICING */
+#pricing{
+    padding: 100px;
+    text-align: center;
+    font-weight: bold
+    
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+  /* call to action */
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 50%,50%;
+    text-align: center;
+}
+.cta-head{
+    font-family: "montsterrat-black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+   /* footer */
+#footer{
+    padding-top: 10%;
+    font-size: 1.5rem;
+    font-family: "montsterrat-black";    
+}
+.icon{
+    margin: 20px 10px;
+}
+
